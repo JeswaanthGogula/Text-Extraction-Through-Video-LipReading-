@@ -1,1 +1,1 @@
-# Text-Extraction-Through-Video-LipReading-
+# Text-Extraction-Through-Video-LipReading
